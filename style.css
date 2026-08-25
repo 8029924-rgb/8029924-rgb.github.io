@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background:#f883f0 ;
+  background:#f8b883 ;
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -120,7 +120,7 @@ nav h1 {
   font-size: 1rem;
   font-weight: 600;
   padding: 10px 20px;
-  background: #9cf0ff;
+  background: #ff9cd6;
   border: 1px solid #ddd;
   border-radius: 100px;
   transition:
